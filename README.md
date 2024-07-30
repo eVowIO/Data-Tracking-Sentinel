@@ -1,6 +1,6 @@
 # eVow.io Data Tracking Sentinel
 
-## What is the purpose of the sentinel extension?
+## What is the purpose of the sentinel chrome extension?
 
 ### Data Collection
 - User Behavior Tracking: Monitors and records users' browsing history, cookies, and other relevant online activities.
@@ -19,6 +19,9 @@
 - Data Aggregation: Collects and consolidates data from various sources or activities.
 ### Summary
 The eVow Data Tracking Sentinel is a system designed for comprehensive tracking and analysis of user data, with functionalities for user profiling, data monetization, and enhancing user experience. It emphasizes the importance of transparency, consent, and security in handling user data.
+
+## Why is it an unofficial extension?
+Google Chrome does not allow extensions to sell user data to third parties. Even though the purpose of the extension is data tracking for user profit sharing, sales of the data are still prohibited by Google.
 
 ## Install an unpacked extension
 ### Important notes
