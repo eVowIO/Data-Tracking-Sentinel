@@ -13,16 +13,16 @@
 ### Data Monetization
 - Selling Data: Sells aggregated and anonymized user data to third parties such as advertisers, marketers, or research firms.
 - Revenue Sharing: Provide a portion of the revenue generated from selling data back to users who agreed to participate in data sharing.
-Compliance and Transparency
+### Compliance and Transparency
 - User Consent: Ensures users are informed and consent to data collection and usage.
 - Data Security: Implements measures to protect user data and ensure it is securely handled.
-Data Management and Control
+### Data Management and Control
 - User Access: Allows users to view, manage, or delete their data as per privacy policies and regulations.
 - Opt-Out Mechanism: Provides options for users to opt out of data collection or data sharing.
-Key Features of a Data Tracking Sentinel
+### Key Features of a Data Tracking Sentinel
 - Real-Time Monitoring: Continuously tracks and records user activity.
 - Data Aggregation: Collects and consolidates data from various sources or activities.
-Summary
+### Summary
 The eVow Data Tracking Sentinel is a system designed for comprehensive tracking and analysis of user data, with functionalities for user profiling, data monetization, and enhancing user experience. It emphasizes the importance of transparency, consent, and security in handling user data.
 
 ## Install an unpacked extension
