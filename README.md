@@ -23,6 +23,9 @@ The eVow Data Tracking Sentinel is a system designed for comprehensive tracking 
 ## Why is it an unofficial extension?
 Google Chrome does not allow extensions to sell user data to third parties. Even though the purpose of the extension is data tracking for user profit sharing, sales of the data are still prohibited by Google.
 
+## How is the extension integrated with Metamask?
+Users must possess a Metamask wallet in order to utilize the extension. The sentinel extension will automatically attempt to acquire your Metamask wallet address when accessing eVow.io. Upon successfully acquiring the wallet address, the extension will begin to send url and cookie history to the eVow.io servers. For more information, please visit https://eVow.io.
+
 ## Install an unpacked extension
 ### Important notes
 Extensions installed as unpacked aren't updated automatically. To update the extension you should download it and install as unpacked again.
