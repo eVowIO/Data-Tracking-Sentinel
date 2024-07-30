@@ -5,11 +5,6 @@
 ### Data Collection
 - User Behavior Tracking: Monitors and records users' browsing history, cookies, and other relevant online activities.
 - Analytics: Collects data to analyze user behavior, preferences, and interactions across different websites or applications.
-
-### User Profiling
-- Behavioral Insights: Builds profiles based on collected data to understand user interests and habits.
-- Personalization: Provides personalized experiences or recommendations based on the user's profile.
-
 ### Data Monetization
 - Selling Data: Sells aggregated and anonymized user data to third parties such as advertisers, marketers, or research firms.
 - Revenue Sharing: Provide a portion of the revenue generated from selling data back to users who agreed to participate in data sharing.
