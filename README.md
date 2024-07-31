@@ -1,4 +1,4 @@
-# eVow.io Data Tracking Sentinel
+# eVow.io Data Tracking Sentinel - An Unofficial Google Chrome Extension
 
 ## What is the purpose of the sentinel chrome extension?
 
